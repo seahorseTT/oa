@@ -1,0 +1,4 @@
+# Project exclude paths
+/oa_biz/target/
+/oa_dao/target/
+/oa_web/target/
